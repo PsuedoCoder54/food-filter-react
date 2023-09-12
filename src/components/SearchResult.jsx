@@ -4,6 +4,7 @@ import { Button, Container } from "../App";
 
 const SearchResult = ({ data }) => {
   const BASE_URL = "https://psuedocoder54.github.io/food-filter-react/public/data.json";
+  const image_URL = "https://psuedocoder54.github.io/food-filter-react/public";
   return (
     <FoodCardsContainer>
         <Container>
@@ -11,7 +12,7 @@ const SearchResult = ({ data }) => {
           {data?.map(({ name, price, text, image, type }) => (
             <FoodCard key={name}>
               <div className="food_image">
-                <img src={BASE_URL + image}></img>
+                <img src={image_URL + image}></img>
               </div>
               <div className="food_info">
                 <div className="info">
