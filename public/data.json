@@ -2,7 +2,7 @@
 		"name": "Boilded Egg",
 		"price": 10,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/egg.png",
+		"image": "../public/egg.png",
 		"type": "breakfast"
 	},
 	{
