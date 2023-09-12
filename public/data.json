@@ -2,42 +2,42 @@
 		"name": "Boilded Egg",
 		"price": 10,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "../public/egg.png",
+		"image": "./public/egg.png",
 		"type": "breakfast"
 	},
 	{
 		"name": "RAMEN",
 		"price": 25,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/ramen.png",
+		"image": "./public/ramen.png",
 		"type": "lunch"
 	},
 	{
 		"name": "GRILLED CHICKEN",
 		"price": 45,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/chicken.png",
+		"image": "./public/chicken.png",
 		"type": "dinner"
 	},
 	{
 		"name": "CAKE",
 		"price": 18,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/cake.png",
+		"image": "./public/cake.png",
 		"type": "breakfast"
 	},
 	{
 		"name": "BURGER",
 		"price": 23,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/burger.png",
+		"image": "./public/burger.png",
 		"type": "lunch"
 	},
 	{
 		"name": "PANCAKE",
 		"price": 25,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "https://psuedocoder54.github.io/food-filter-react/public/pancake.png",
+		"image": "./public/pancake.png",
 		"type": "dinner"
 	}
 ]
