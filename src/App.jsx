@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { styled } from "styled-components";
 import SearchResult from "./components/SearchResult";
 
-const BASE_URL = "http://localhost:9000/";
+const BASE_URL = "https://psuedocoder54.github.io/food-filter-react/public/data.json/";
 
 const App = () => {
   const [data, setData] = useState(null);
