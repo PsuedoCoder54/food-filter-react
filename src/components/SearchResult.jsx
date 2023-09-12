@@ -3,7 +3,7 @@ import { styled } from "styled-components";
 import { Button, Container } from "../App";
 
 const SearchResult = ({ data }) => {
-  const BASE_URL = "http://localhost:9000";
+  const BASE_URL = "https://psuedocoder54.github.io/food-filter-react/public/data.json";
   return (
     <FoodCardsContainer>
         <Container>
