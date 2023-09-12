@@ -2,42 +2,42 @@
 		"name": "Boilded Egg",
 		"price": 10,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/egg.png",
+		"image": "/egg.png",
 		"type": "breakfast"
 	},
 	{
 		"name": "RAMEN",
 		"price": 25,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/ramen.png",
+		"image": "/ramen.png",
 		"type": "lunch"
 	},
 	{
 		"name": "GRILLED CHICKEN",
 		"price": 45,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/chicken.png",
+		"image": "/chicken.png",
 		"type": "dinner"
 	},
 	{
 		"name": "CAKE",
 		"price": 18,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/cake.png",
+		"image": "/cake.png",
 		"type": "breakfast"
 	},
 	{
 		"name": "BURGER",
 		"price": 23,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/burger.png",
+		"image": "/burger.png",
 		"type": "lunch"
 	},
 	{
 		"name": "PANCAKE",
 		"price": 25,
 		"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-		"image": "./public/pancake.png",
+		"image": "/pancake.png",
 		"type": "dinner"
 	}
 ]
