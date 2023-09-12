@@ -8,14 +8,14 @@
 	{
 		"name": "RAMEN",
 		"price": 25,
-		"text": "Ramen is a Japanese noodle dish. It consists of Chinese-style wheat noodles served in a broth; common flavors are soy sauce and miso, with typical toppings including sliced pork, nori, menma, and scallions.",
+		"text": "Ramen is a Japanese noodle dish. It consists of Chinese-style wheat noodles served in a broth; common flavors are soy sauce and miso.",
 		"image": "/ramen.png",
 		"type": "lunch"
 	},
 	{
 		"name": "GRILLED CHICKEN",
 		"price": 45,
-		"text": "It's low in calories, low in fat and has a high nutritional value. Grilled chicken is also a great source of protein. People who get enough of this nutrient are more likely to maintain muscle mass and support a healthy metabolism.",
+		"text": "It's low in calories, low in fat and has a high nutritional value. Grilled chicken is also a great source of protein.",
 		"image": "/chicken.png",
 		"type": "dinner"
 	},
@@ -29,14 +29,14 @@
 	{
 		"name": "BURGER",
 		"price": 23,
-		"text": "A hamburger, or simply burger, is a sandwich consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.",
+		"text": "Burger is a sandwich consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.",
 		"image": "/burger.png",
 		"type": "lunch"
 	},
 	{
 		"name": "PANCAKE",
 		"price": 25,
-		"text": "A pancake is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter.",
+		"text": "A pancake is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter.",
 		"image": "/pancake.png",
 		"type": "dinner"
 	}
